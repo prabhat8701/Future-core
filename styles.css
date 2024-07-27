@@ -1,0 +1,66 @@
+*{
+    background-color: black;
+    margin-left: 0.2rem;
+}
+.f-container{
+    display: flex;
+
+}
+h1{
+    color: rgb(146, 51, 235);
+    
+}
+.input{
+    display: flex;
+}
+button{
+    border-radius: 10px ;
+    background-color:rgb(158, 57, 252);
+    padding: 1rem;
+    color: white;
+    width:100px;
+}
+input{
+    border: 1px solid rgb(161, 114, 204);
+    border-radius: 10px;
+    padding: 1rem;
+    width:25rem ;
+    
+}
+.f-text{
+    margin-top: -2rem;
+    margin-left:15px;
+    color: rgb(231, 213, 213);
+    width: 50%;
+    font-size: 20px;
+}
+ .right{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.left{
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.f-head{
+    font-size:65px;
+    
+}
+span{
+    color: white;
+}
+.extreme-right{
+    margin-left:15rem;
+    
+}
+
+.footer{
+    margin-top: 2rem;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    gap: 6rem;
+}
