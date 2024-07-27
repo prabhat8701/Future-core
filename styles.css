@@ -6,6 +6,13 @@
     display: flex;
 
 }
+.fa {
+   
+    font-size: 30px;
+   
+    text-align: center;
+    text-decoration: none;
+  }
 h1{
     color: rgb(146, 51, 235);
     
